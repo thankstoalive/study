@@ -8,8 +8,7 @@
 
 ## Module 1
 - [LLM2 Module 1 - Transformers \| 1.1 Introduction](./study/LLM2%20Module%201%20-%20Transformers%20%7C%201.1%20Introduction.md)
-- [LLM2 Module 1 - Transformers \| 1.2 Module Overview](./study/LLM2%20Module%201%20-%20Transformers%20%7C%201.2%20Module%20Overview.md)
-Overview
+- LLM2 Module 1 - Transformers | 1.2 Module Overview
 - LLM2 Module 1 - Transformers | 1.3 The Transformer Block
 - LLM2 Module 1 - Transformers | 1.4 Transformer Architectures
 - LLM2 Module 1 - Transformers | 1.5 The Attention Mechanism
@@ -19,7 +18,7 @@ Overview
 
 ## Module 2
 - LLM2 Module 2 - Efficient Fine-Tuning | 2.1 Introduction
-- LLM2 Module 2 - Efficient Fine-Tuning | 2.2 Module Overview
+- [LLM2 Module 2 - Efficient Fine-Tuning \| 2.2 Module Overview](./study/LLM2%20Module%202%20-%20Efficient%20Fine-Tuning%20%7C%202.2%20Module%20Overview.md)
 - LLM2 Module 2 - Efficient Fine-Tuning | 2.3 PEFT and Soft Prompt
 - LLM2 Module 2 - Efficient Fine-Tuning | 2.4 Re-parameterizaion: LoRA
 - LLM2 Module 2 - Efficient Fine-Tuning | 2.5 PEFT Limitations
