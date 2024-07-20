@@ -3,7 +3,8 @@
 - [Youtube - DataBricks - Large Language Models: Foundation Models from the Ground Up](https://www.youtube.com/playlist?list=PLTPXxbhUt-YWjMCDahwdVye8HW69p5NYS)
 
 # 목차
-- [LLM2 Foundation Models from the Ground Up | Primer](./study/LLM2 Foundation Models from the Ground Up | Primer.md)
+- [LLM2 Foundation Models from the Ground Up \| Primer](./study/LLM2%20Foundation%20Models%20from%20the%20Ground%20Up%20%7C%20Primer.md)
+
 
 ## Module 1
 - LLM2 Module 1 - Transformers | 1.1 Introduction
