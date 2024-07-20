@@ -7,8 +7,9 @@
 
 
 ## Module 1
-- LLM2 Module 1 - Transformers | 1.1 Introduction
-- LLM2 Module 1 - Transformers | 1.2 Module Overview
+- [LLM2 Module 1 - Transformers \| 1.1 Introduction](./study/LLM2%20Module%201%20-%20Transformers%20%7C%201.1%20Introduction.md)
+- [LLM2 Module 1 - Transformers \| 1.2 Module Overview](./study/LLM2%20Module%201%20-%20Transformers%20%7C%201.2%20Module%20Overview.md)
+Overview
 - LLM2 Module 1 - Transformers | 1.3 The Transformer Block
 - LLM2 Module 1 - Transformers | 1.4 Transformer Architectures
 - LLM2 Module 1 - Transformers | 1.5 The Attention Mechanism
